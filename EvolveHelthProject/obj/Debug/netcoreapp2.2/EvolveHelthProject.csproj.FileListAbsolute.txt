@@ -1,0 +1,14 @@
+E:\EvolveHealth\EvolveHelthProject\EvolveHelthProject\bin\Debug\netcoreapp2.2\EvolveHelthProject.deps.json
+E:\EvolveHealth\EvolveHelthProject\EvolveHelthProject\bin\Debug\netcoreapp2.2\EvolveHelthProject.runtimeconfig.json
+E:\EvolveHealth\EvolveHelthProject\EvolveHelthProject\bin\Debug\netcoreapp2.2\EvolveHelthProject.runtimeconfig.dev.json
+E:\EvolveHealth\EvolveHelthProject\EvolveHelthProject\bin\Debug\netcoreapp2.2\EvolveHelthProject.dll
+E:\EvolveHealth\EvolveHelthProject\EvolveHelthProject\bin\Debug\netcoreapp2.2\EvolveHelthProject.pdb
+E:\EvolveHealth\EvolveHelthProject\EvolveHelthProject\obj\Debug\netcoreapp2.2\EvolveHelthProject.csprojAssemblyReference.cache
+E:\EvolveHealth\EvolveHelthProject\EvolveHelthProject\obj\Debug\netcoreapp2.2\EvolveHelthProject.csproj.CoreCompileInputs.cache
+E:\EvolveHealth\EvolveHelthProject\EvolveHelthProject\obj\Debug\netcoreapp2.2\EvolveHelthProject.RazorAssemblyInfo.cache
+E:\EvolveHealth\EvolveHelthProject\EvolveHelthProject\obj\Debug\netcoreapp2.2\EvolveHelthProject.RazorAssemblyInfo.cs
+E:\EvolveHealth\EvolveHelthProject\EvolveHelthProject\obj\Debug\netcoreapp2.2\EvolveHelthProject.AssemblyInfoInputs.cache
+E:\EvolveHealth\EvolveHelthProject\EvolveHelthProject\obj\Debug\netcoreapp2.2\EvolveHelthProject.AssemblyInfo.cs
+E:\EvolveHealth\EvolveHelthProject\EvolveHelthProject\obj\Debug\netcoreapp2.2\EvolveHelthProject.RazorTargetAssemblyInfo.cache
+E:\EvolveHealth\EvolveHelthProject\EvolveHelthProject\obj\Debug\netcoreapp2.2\EvolveHelthProject.dll
+E:\EvolveHealth\EvolveHelthProject\EvolveHelthProject\obj\Debug\netcoreapp2.2\EvolveHelthProject.pdb
